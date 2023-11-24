@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f210d6fe-7d8b-4036-aa9d-bc399cff96f1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio.xcodeproj/project.xcworkspace/xcuserdata/mathieu.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio.xcodeproj/xcuserdata/mathieu.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/abu_elephant.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/abu_elephant.imageset/abu_elephant.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/abu_monkey.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/abu_monkey.imageset/abu_monkey.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/aladdin.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/aladdin.imageset/aladdin.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/ali.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/ali.imageset/ali.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/applause.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/applause.imageset/applause.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/cave_inside.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/cave_inside.imageset/cave_inside.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/cave_outside.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/cave_outside.imageset/cave_outside.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/cover.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/cover.imageset/cover.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/dans_lampe.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/dans_lampe.imageset/dans_lampe.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/genie.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/genie.imageset/genie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/jafar.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/jafar.imageset/jafar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/jafar_snake.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/jafar_snake.imageset/jafar_snake.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/lamp.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/lamp.imageset/lamp.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/profile.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Assets.xcassets/profile.imageset/profile.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/ExoportfolioApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Views/ContactView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Views/HomeView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exoportfolio/Exoportfolio/Views/WishesView.swift" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="InstanceColorv3">
+    <option name="map">
+      <map>
+        <entry key="hi.tree">
+          <value>
+            <ColorState>
+              <option name="customOrder" value="1" />
+              <option name="first">
+                <RgbState>
+                  <option name="blue" value="60" />
+                  <option name="darkBlue" value="60" />
+                  <option name="darkGreen" value="68" />
+                  <option name="darkRed" value="206" />
+                  <option name="green" value="68" />
+                  <option name="red" value="206" />
+                </RgbState>
+              </option>
+              <option name="second">
+                <RgbState>
+                  <option name="blue" value="65" />
+                  <option name="darkBlue" value="65" />
+                  <option name="darkGreen" value="126" />
+                  <option name="darkRed" value="231" />
+                  <option name="green" value="126" />
+                  <option name="red" value="231" />
+                </RgbState>
+              </option>
+            </ColorState>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2YcTmQ6Mlc2SY4FYCrGyvJb3Bel" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/mathieu/Desktop/Developpement/Cours swift Udemy/ExoPortfolio"
+  },
+  "keyToStringList": {
+    "stardust.markdown.MarkdownSplitEditorSuppressor:keyList": [
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
