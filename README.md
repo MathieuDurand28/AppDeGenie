@@ -7,11 +7,11 @@ Exercice venant de la formation Udemy : [LIEN](https://www.udemy.com/share/1072m
 
 Application contenant 3 vues distinctes avec une navigation par "TabView"
 
-![1](https://github.com/MathieuDurand28/AppDeGenie/blob/main/Capture d’écran 2023-11-24 à 12.23.49.png)
+![1](https://github.com/MathieuDurand28/AppDeGenie/blob/main/1.png)
 
-![2](https://github.com/MathieuDurand28/AppDeGenie/blob/main/Capture d’écran 2023-11-24 à 12.24.06.png)
+![2](https://github.com/MathieuDurand28/AppDeGenie/blob/main/2.png)
 
-![3](https://github.com/MathieuDurand28/AppDeGenie/blob/main/Capture d’écran 2023-11-24 à 12.24.17.png)
+![3](https://github.com/MathieuDurand28/AppDeGenie/blob/main/3.png)
 
 
 
